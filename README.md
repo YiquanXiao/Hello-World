@@ -1,4 +1,4 @@
 # Hello-World
-Currently learning GitHub
+Learning GitHub
 
 My first note on Github
